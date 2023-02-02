@@ -1,2 +1,2 @@
 language="nodejs"
-run="npm i && node index.js --server && pm2 save && pm2 logs"
+run="npm2 i && start index.js --server && pm2 save && pm2 logs"
